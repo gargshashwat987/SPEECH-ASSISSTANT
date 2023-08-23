@@ -13,9 +13,9 @@ AI-based Application which help to do your daily work routine with the help of v
 ## Usage
 -It is easy to use just you need is basic Python knowledge.<br />
 -You can add your command inside main method by appending ladder if statements:<br />
-            elif 'YOUR VOICE COMMAND' in query:<br />
-              speak("YOUR COMMAND")<br />
-              ## YOUR CODE
+>>            elif 'YOUR VOICE COMMAND' in query:<br />
+>>              speak("YOUR COMMAND")<br />
+>>              ## YOUR CODE
 
 
 
