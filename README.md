@@ -33,4 +33,6 @@ AI-based Application which help to do your daily work routine with the help of v
 
 <img width="650" alt="10" src="https://github.com/gargshashwat987/SPEECH-ASSISSTANT/assets/124812421/37af2cab-09dd-4658-9c36-e4d273a87c10">
 
+<br> 
+
 
