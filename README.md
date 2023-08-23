@@ -19,7 +19,7 @@ AI-based Application which help to do your daily work routine with the help of v
 
 
 
-## Acknowledgements:
+## Acknowledgements
 
 -Python 3 language<br />
 -wikipedia library<br />
@@ -27,3 +27,10 @@ AI-based Application which help to do your daily work routine with the help of v
 -os library<br />
 -speech_recognition library<br />
 -webbrowser library
+
+
+## OUTPUT SCREENSHOTS<br />
+
+<img width="650" alt="10" src="https://github.com/gargshashwat987/SPEECH-ASSISSTANT/assets/124812421/37af2cab-09dd-4658-9c36-e4d273a87c10">
+
+
