@@ -1,20 +1,20 @@
-# SPEECH-ASSISSTANT
+## SPEECH-ASSISSTANT
 AI-based Application which help to do your daily work routine with the help of voice/speech. 
 
-Why AI-Tool:
+# Why AI-Tool:
 
--It can search on wikipedia.
--It can open YouTube, Spotify, Whatsapp (if installed on your pc) and other cool stuff.
--You can easily add your command.
+-It can search on wikipedia.<br />
+-It can open YouTube, Spotify, Whatsapp (if installed on your pc) and other cool stuff.<br />
+-You can easily add your command.<br />
 
-Built With
+# Built With<br />
 -Python 3
 
 Usage
--It is easy to use just you need is basic Python knowledge
--You can add your command inside main method by appending ladder if statements.
-            elif 'YOUR VOICE COMMAND' in query:
-              speak("YOUR COMMAND")
+-It is easy to use just you need is basic Python knowledge.<br />
+-You can add your command inside main method by appending ladder if statements.<br />
+            elif 'YOUR VOICE COMMAND' in query:<br />
+              speak("YOUR COMMAND")<br />
               ## YOUR CODE
 
 
@@ -22,8 +22,8 @@ Usage
 # Acknowledgements:
 
 -Python 3 language<br />
--wikipedia library
--pyttsx3 library
--os library
--speech_recognition library
+-wikipedia library<br />
+-pyttsx3 library<br />
+-os library<br />
+-speech_recognition library<br />
 -webbrowser library
